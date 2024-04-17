@@ -456,6 +456,7 @@ a {
   grid-gap: 8rem;
 }
 
+
 @media (max-width: 37.5em) {
   .about__info {
     grid-template-columns: 1fr;
@@ -831,7 +832,7 @@ a {
 }
 
 .contact__form-visual {
-  background-image: url('https://i.postimg.cc/mrHQw69n/contact-form-bg.jpg');
+  background-image: url('/assets/Siya_headshot1.png');
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
@@ -846,7 +847,7 @@ a {
 }
 
 .contact__form-visual::after {
-  content: '';
+  /* content: ''; */
   position: absolute;
   z-index: 20;
   background: rgba(var(--themeColor), 0.5);
