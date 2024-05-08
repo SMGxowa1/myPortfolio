@@ -444,6 +444,12 @@ a {
     margin: 0 0 2rem 0;
   }
 }
+.github_calender img{
+padding-top: 20px;
+}
+ h3{
+  padding-top: 50px;
+}
 
 /* About */
 .about {
