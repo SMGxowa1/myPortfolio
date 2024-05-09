@@ -722,6 +722,23 @@ padding-top: 20px;
   color: #000;
   font-weight: bold;
 }
+.certifications_heading{
+  padding-left: 190px;
+}
+.certification_lists ul{
+list-style-type: none;
+
+}
+.certification_list {
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  padding: 1.5rem 2rem;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+  padding-left: 190px;
+
+}
+
 
 /* Contact */
 
